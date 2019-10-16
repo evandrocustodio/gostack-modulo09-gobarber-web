@@ -24,3 +24,9 @@ export function signFailure() {
     type: '@auth/SIGN_FAILURE',
   };
 }
+
+export function logoutSuccess() {
+  return {
+    type: '@auth/LOGOUT_SUCCESS',
+  };
+}

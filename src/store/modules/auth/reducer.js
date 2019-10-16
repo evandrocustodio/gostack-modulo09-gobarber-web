@@ -24,6 +24,12 @@ export default function auth(state = INITIAL_STATE, action) {
         draft.loading = false;
         break;
       }
+      case '@auth/LOGOUT_SUCCESS': {
+        draft.token = undefined;
+        draft.signed = false;
+        draft.loading = false;
+        break;
+      }
       default:
         return state;
     }
