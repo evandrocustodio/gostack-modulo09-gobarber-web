@@ -56,7 +56,7 @@ export default function Notifications() {
       <NotificationList visible={visible}>
         <Scroll>
           {notifications.map(notification => (
-            <Notification unread={!notification.read}>
+            <Notification key={notification._id} unread={!notification.read}>
               <p>{notification.content}</p>
               <time>{notification.timeDistance}</time>
               {!notification.read && (
