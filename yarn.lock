@@ -1165,10 +1165,10 @@
   resolved "https://registry.yarnpkg.com/@redux-saga/types/-/types-1.1.0.tgz#0e81ce56b4883b4b2a3001ebe1ab298b84237204"
   integrity sha512-afmTuJrylUU/0OtqzaRkbyYFFNgCF73Bvel/sw90pvGrWIZ+vyoIJqA6eMSoA6+nb443kTmulmBtC9NerXboNg==
 
-"@rocketseat/unform@^1.5.1":
-  version "1.6.1"
-  resolved "https://registry.yarnpkg.com/@rocketseat/unform/-/unform-1.6.1.tgz#656dbe438b08ec7eed3190be5918516090f1f9b0"
-  integrity sha512-KStvWyRwjgvXF+gOL8is6AwuGMHwVALRO0IZMPAD0NzYlt41gDstaxRvstzvD+wzvRa8Yhu6ldmWl7ET2sLNCw==
+"@rocketseat/unform@^1.6.1":
+  version "1.6.2"
+  resolved "https://registry.yarnpkg.com/@rocketseat/unform/-/unform-1.6.2.tgz#7ed267589602f33bb6397c0a5b0596f6ec2bccb9"
+  integrity sha512-jmieDJkFT+QeBu59Fm1NCT2Emmj+dKAE/b7d4jS5bddMw2OOnray+h2EvJsg5EERI2BtzxkVkMzjByxq8Qq3GA==
 
 "@svgr/babel-plugin-add-jsx-attribute@^4.2.0":
   version "4.2.0"
@@ -6410,9 +6410,9 @@ merge-anything@^2.2.4:
     is-what "^3.3.1"
 
 merge-deep@^3.0.2:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/merge-deep/-/merge-deep-3.0.2.tgz#f39fa100a4f1bd34ff29f7d2bf4508fbb8d83ad2"
-  integrity sha512-T7qC8kg4Zoti1cFd8Cr0M+qaZfOwjlPDEdZIIPPB2JZctjaPM4fX+i7HOId69tAti2fvO6X5ldfYUONDODsrkA==
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/merge-deep/-/merge-deep-3.0.3.tgz#1a2b2ae926da8b2ae93a0ac15d90cd1922766003"
+  integrity sha512-qtmzAS6t6grwEkNrunqTBdn0qKwFgNWvlxUbAV8es9M7Ot1EbyApytCnvE0jALPa46ZpKDUo527kKiaWplmlFA==
   dependencies:
     arr-union "^3.1.0"
     clone-deep "^0.2.4"
